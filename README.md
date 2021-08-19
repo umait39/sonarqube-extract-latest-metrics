@@ -1,1 +1,1 @@
-# sonarqube-extract-latest-metrics-V7.0
+# sonarqube-extract-latest-metrics
